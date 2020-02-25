@@ -3,7 +3,7 @@
     height: 55px;
 }
 .bg-color{
-    background-color: rgb(221, 241, 238);
+    background-color: rgb(212, 245, 242);
     border-radius: 5px;
 }
 .carousel-item{
@@ -14,4 +14,7 @@
 }
 .row{
     margin-bottom: 20px;
+}
+h2{
+    text-align: center;
 }
