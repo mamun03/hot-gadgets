@@ -1,0 +1,17 @@
+.img-size{
+    width: 100px;
+    height: 55px;
+}
+.bg-color{
+    background-color: rgb(221, 241, 238);
+    border-radius: 5px;
+}
+.carousel-item{
+    padding: 25px 40px;
+}
+.container{
+    margin-bottom:20px;
+}
+.row{
+    margin-bottom: 20px;
+}
